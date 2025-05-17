@@ -13,4 +13,3 @@ while True:
         else:
             print('O seu acesso foi bloqueado!')
             break
-#abcd
