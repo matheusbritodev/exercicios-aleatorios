@@ -14,7 +14,7 @@ while True:
                 continue
             else:
                 print('Seu número de tentativas esgotou. O número é {}, GAME OVER!' .format(numRan))
-            break    
+                break    
     else:
         print('Parabéns, você acertou!\nNúmero = {}' .format(numRan))
         break
