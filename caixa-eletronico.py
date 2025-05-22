@@ -21,4 +21,4 @@ while True:
         else: 
             continue
     else:
-        print('Essa opção é inválida!')
+            print('Essa opção é inválida!')
